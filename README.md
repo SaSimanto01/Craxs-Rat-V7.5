@@ -126,7 +126,7 @@ Email/Number
      ✅ Save it
 
 ☮️ 𝗖𝗮𝗹𝗹 𝗟𝗶𝘀𝘁𝗲𝗻𝗲𝗿
-      ✅ Get all call Notification
+    ✅ Get all call Notification
      ✅ Record out /in call
 
 ☮️ 𝗦𝗰𝗿𝗲𝗲𝗻 𝗥𝗲𝗮𝗱𝗲𝗿
@@ -148,3 +148,4 @@ Email/Number
 🔥 Fixed an issue where some vivo phones would not display in the craxs client
 —————
 Contact with me: https://t.me/CyberTxTxT🤍
+
