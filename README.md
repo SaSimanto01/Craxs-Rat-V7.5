@@ -17,24 +17,24 @@ Android Screen Control Systematic Pattern
 🔰OUTSTANDING FEATURES🔰
 
   𝗙𝗶𝗹𝗲 𝗠𝗮𝗻𝗮𝗴𝗲𝗿
-                  ✅ Download/Upload
+                 ✅ Download/Upload
                   
-                     ✅Secure Delete Options
+                 ✅Secure Delete Options
                      
-                ✅ Thumbnail/Gallery view
+                 ✅ Thumbnail/Gallery view
                 
-        ✅ Advanced search
+                 ✅ Advanced search
         
-  ✅ Copy/Paste
+             ✅ Copy/Paste
   
-  ✅ Decrypt/Decode
+             ✅ Decrypt/Decode
   
-    ✅ Hidden / Unhidden File
+             ✅ Hidden / Unhidden File
     
-    ✅ Set WallPaper
+             ✅ Set WallPaper
     
     
-    ✅ Live Location
+              ✅ Live Location
 
 ☮️ 𝗟𝗶𝘃𝗲 𝗦𝗰𝗿𝗲𝗲𝗻 𝗖𝗼𝗻𝘁𝗿𝗼𝗹
     ✅ Show Screen Live
