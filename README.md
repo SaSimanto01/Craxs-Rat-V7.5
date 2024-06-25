@@ -29,19 +29,18 @@ Android Screen Control Systematic Pattern
   
             ✅ Decrypt/Decode
   
-             ✅ Hidden / Unhidden File
+            ✅ Hidden / Unhidden File
     
-             ✅ Set WallPaper
-    
-    
-              ✅ Live Location
+            ✅ Set WallPaper
+           
+            ✅ Live Location
 
-☮️ 𝗟𝗶𝘃𝗲 𝗦𝗰𝗿𝗲𝗲𝗻 𝗖𝗼𝗻𝘁𝗿𝗼𝗹
-    ✅ Show Screen Live
-    ✅ Control Screen (VNC)
-    ✅ Use Keyboard
-    ✅ Lock / unlock screen
-    ✅ Take silent screenshot
+            ☮️ 𝗟𝗶𝘃𝗲 𝗦𝗰𝗿𝗲𝗲𝗻 𝗖𝗼𝗻𝘁𝗿𝗼𝗹
+            ✅ Show Screen Live
+            ✅ Control Screen (VNC)
+            ✅ Use Keyboard
+            ✅ Lock / unlock screen
+            ✅ Take silent screenshot
 
 ☮️ 𝗖𝗮𝗹𝗹 𝗠𝗮𝗻𝗮𝗴𝗲𝗿
     ✅ Show List Of Call Out /in
