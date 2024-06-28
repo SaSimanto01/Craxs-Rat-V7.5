@@ -3,13 +3,13 @@
     🔰OUTSTANDING FEATURES🔰
 
     𝗙𝗶𝗹𝗲 𝗠𝗮𝗻𝗮𝗴𝗲𝗿
-       ✅ Download/Upload
-       ✅Secure Delete Options
-       ✅ Thumbnail/Gallery view
-.      ✅ Advanced search
-       ✅ Copy/Paste
-       ✅ Decrypt/Decode
-       ✅ Hidden / Unhidden File
+                    ✅ Download/Upload
+                    ✅Secure Delete Options
+                     ✅ Thumbnail/Gallery view
+.                    ✅ Advanced search
+                    ✅ Copy/Paste
+                  ✅ Decrypt/Decode
+                ✅ Hidden / Unhidden File
        ✅ Set WallPaper
 ☮️ 𝗟𝗼𝗰𝗮𝘁𝗶𝗼𝗻
        ✅ Live Location
