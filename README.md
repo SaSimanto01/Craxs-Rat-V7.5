@@ -1,35 +1,35 @@
 🌶Craxs Rat V7.5🌶
 
-🔰OUTSTANDING FEATURES🔰
+    🔰OUTSTANDING FEATURES🔰
 
-  𝗙𝗶𝗹𝗲 𝗠𝗮𝗻𝗮𝗴𝗲𝗿
-    ✅ Download/Upload
-    ✅Secure Delete Options
-    ✅ Thumbnail/Gallery view
-.   ✅ Advanced search
-    ✅ Copy/Paste
-    ✅ Decrypt/Decode
-    ✅ Hidden / Unhidden File
-    ✅ Set WallPaper
+    𝗙𝗶𝗹𝗲 𝗠𝗮𝗻𝗮𝗴𝗲𝗿
+       ✅ Download/Upload
+       ✅Secure Delete Options
+       ✅ Thumbnail/Gallery view
+.      ✅ Advanced search
+       ✅ Copy/Paste
+       ✅ Decrypt/Decode
+       ✅ Hidden / Unhidden File
+       ✅ Set WallPaper
 ☮️ 𝗟𝗼𝗰𝗮𝘁𝗶𝗼𝗻
-    ✅ Live Location
+       ✅ Live Location
 
 ☮️ 𝗟𝗶𝘃𝗲 𝗦𝗰𝗿𝗲𝗲𝗻 𝗖𝗼𝗻𝘁𝗿𝗼𝗹
-    ✅ Show Screen Live
-    ✅ Control Screen (VNC)
-    ✅ Use Keyboard
-    ✅ Lock / unlock screen
-    ✅ Take silent screenshot
+       ✅ Show Screen Live
+       ✅ Control Screen (VNC)
+       ✅ Use Keyboard
+       ✅ Lock / unlock screen
+       ✅ Take silent screenshot
 
 ☮️ 𝗖𝗮𝗹𝗹 𝗠𝗮𝗻𝗮𝗴𝗲𝗿
-    ✅ Show List Of Call Out /in
-    ✅ Delete calls
+         ✅ Show List Of Call Out /in
+         ✅ Delete calls
 
-☮️ 𝗦𝗲𝗻𝗱 𝗦𝗠𝗦
-    ✅ Improve “Send SMS”
-    ✅ Send to multi number
-    ✅ Send to list from file
-    ✅ Send to all contact
+ ☮️ 𝗦𝗲𝗻𝗱 𝗦𝗠𝗦
+         ✅ Improve “Send SMS”
+         ✅ Send to multi number
+         ✅ Send to list from file
+         ✅ Send to all contact
 
 ☮️ 𝗔𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻 𝗠𝗮𝗻𝗮𝗴𝗲𝗿
     ✅ Show List of Application
