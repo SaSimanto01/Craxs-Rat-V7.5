@@ -208,5 +208,6 @@ Email/Number
 🔥Mute your phone with one click 
 🔥 Fixed an issue where some vivo phones would not display in the craxs client
 —————
-Contact with me: https://t.me/CyberTxTxT🤍
+Contact with me: **https://t.me/CyberTxTxT**🤍![dsdfdsgf](https://github.com/SaSimanto01/Craxs-Rat-V7.5/assets/100892051/5c60e518-bef6-4b91-b4f3-7d6410d55ea3)
+
 
